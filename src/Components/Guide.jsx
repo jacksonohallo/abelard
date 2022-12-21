@@ -76,7 +76,7 @@ const Guide = () => {
             textAlign: "center",
           }}
         >
-          Everything you need to know when you want to buy, rent or sell - All
+          Everything you need to know when you want to build - All
           in one place
         </Typography>
       </CustomBox>
@@ -93,7 +93,7 @@ const Guide = () => {
               my: 1,
             }}
           >
-            Buying Guides
+            Contruction Guides
           </Typography>
           <Box
             sx={{
@@ -124,7 +124,7 @@ const Guide = () => {
               my: 1,
             }}
           >
-            Renting Guides
+            Designs Guides
           </Typography>
           <Box
             sx={{
@@ -138,7 +138,7 @@ const Guide = () => {
               variant="body2"
               sx={{ fontWeight: "bold", fontSize: "14px", color: "#0689FF" }}
             >
-              How to rent
+              How to reach us
             </Typography>
             <ArrowRightAltIcon style={{ color: "#0689FF" }} />
           </Box>
@@ -155,7 +155,7 @@ const Guide = () => {
               my: 1,
             }}
           >
-            Selling Guides
+            Handing over Guides
           </Typography>
           <Box
             sx={{

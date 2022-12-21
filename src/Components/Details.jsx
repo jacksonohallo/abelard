@@ -80,7 +80,7 @@ const Details = () => {
                 my: 3,
               }}
             >
-              You’ve found a neighborhood you love.
+              You’ve found a constructcion partner you need.
             </Typography>
 
             <Typography
@@ -106,7 +106,7 @@ const Details = () => {
             }}
           >
             <LargeText>2500+</LargeText>
-            <SmallText>Homes For Sale</SmallText>
+            <SmallText>Ongoing project </SmallText>
           </Box>
 
           <Box
@@ -117,7 +117,7 @@ const Details = () => {
             }}
           >
             <LargeText>3000+</LargeText>
-            <SmallText>Properties Rented</SmallText>
+            <SmallText>Properties constructed</SmallText>
           </Box>
 
           <Box
@@ -128,7 +128,7 @@ const Details = () => {
             }}
           >
             <LargeText>3500+</LargeText>
-            <SmallText>Homes Sold</SmallText>
+            <SmallText>Homes Finished</SmallText>
           </Box>
         </TextFlexbox>
       </Container>

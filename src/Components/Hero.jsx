@@ -45,17 +45,16 @@ const Hero = () => {
                 mb: 4,
               }}
             >
-              Welcome to Besnik Agency
+              Welcome to Abelard Construction limited
             </Typography>
             <Title variant="h1">
-              Discover a place where you'll love to live.
+              Discover your best architectural designs and get it done.
             </Title>
             <Typography
               variant="body2"
               sx={{ fontSize: "18px", color: "#5A6473", my: 4 }}
             >
-              Be the first to get the best real estate deals before they hit the
-              mass market! Hot foreclosure deals with one simple search!
+            Our design team can make changes to any plan, big or small, to make it perfect for your needs. Our QuikQuotes will get you the cost to build a specific house design in a specific zip code.
             </Typography>
             <CustomButton
               backgroundColor="#0F1B4C"

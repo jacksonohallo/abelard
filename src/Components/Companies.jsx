@@ -36,7 +36,7 @@ const Companies = () => {
               mt: 2,
             }}
           >
-            More than 45,000 trust Besnik
+            More than 45,000 trust Abelard
           </Typography>
         </CustomBox>
 
